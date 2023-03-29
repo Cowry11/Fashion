@@ -93,8 +93,8 @@ nav > div > img{  /* Blue */
 */
 
 *{
-    margin:0; /*  Removes the space around all elements*/
- 
+    margin: 0; /*  Removes the space around all elements*/
+    
 }
 * { Box-sizing: Border-box } FTW
 
