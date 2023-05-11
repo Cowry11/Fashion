@@ -1,5 +1,11 @@
 .bangs {
-    border: 1px #FFE2E2;
     background-color: #FFE2E2;
     height: 63px;
+}
+
+.bangs .h5 {
+    white-space: normal;
+    text-align: center;
+    font-size: 25px;
+    font-family: SimSun-ExtB;
 }
