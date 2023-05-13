@@ -2,7 +2,7 @@
     background-color: #FFE2E2;
     height: 63px;
     display: grid;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -15,4 +15,10 @@ h5 {
     font-weight: lighter;
     display: flex;
     justify-content: space-evenly;
+}
+
+body {
+    height: 3249px;
+    width: 99%;
+    background-color: #FFF7F0;   
 }
