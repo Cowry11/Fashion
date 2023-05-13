@@ -1,11 +1,18 @@
 .bangs {
     background-color: #FFE2E2;
     height: 63px;
+    display: grid;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
 
-.bangs .h5 {
-    white-space: normal;
-    text-align: center;
+h5 {
     font-size: 25px;
-    font-family: SimSun-ExtB;
+    font-family: 'SimSun-ExtB';
+    margin-top: 18px;
+    font-weight: lighter;
+    display: flex;
+    justify-content: space-evenly;
 }
