@@ -22,3 +22,38 @@ body {
     width: 99%;
     background-color: #FFF7F0;   
 }
+
+.boxContainer {
+    margin-left: 33.5%;
+    
+}
+
+.loupe {
+    margin-top: 170%;
+    
+}
+
+.elementsContainer {
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.Search {
+    margin-top: 8%;
+    border: 0.5px solid #B6B6B6;
+    width: 531px;
+    height: 44px;
+    padding: 0px 5px;
+    border-radius: 50px;
+    font-size: 23px;
+    font-family: 'Segoe UI';
+    color: #B6B6B6;
+    font-weight: regular;
+    position: relative;
+}
+
+.Search {
+    outline: none;
+}
+
