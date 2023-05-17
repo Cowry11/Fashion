@@ -45,6 +45,17 @@ body {
     text-indent: 4.5%;
 }
 
+/* #suggestion {
+    margin-top: 4.96%;
+    margin-left: 34.9%;
+    font-size: 23px;
+    font-family: 'Segoe UI';
+    color: #B6B6B6;
+    font-weight: regular;
+    position: absolute;
+    text-indent: 4.5%;
+} */
+
 .Search {
     outline: none;
 }
@@ -154,4 +165,66 @@ p {
 
 #i-2 {
     Color: #FEF887;
+}
+
+.flogo {
+    left: 12.15%;
+    position: absolute;
+    margin-top: 4.75%;
+}
+
+.Group-1 {
+    display: flex;
+    margin-top: 9.1%;
+    position: absolute;
+    margin-left: 2%;
+}
+
+.breakImage {
+    margin-top: 44%;
+    position: absolute;
+    margin-left: -22%;
+}
+
+.Rectangle {
+    position: absolute;
+    margin-left: -1.31%;
+    margin-top: 87.6%;
+    width: 1804.5px;
+    height: 1169px;
+    background-color: #FEA5E4;
+}
+
+.Video1 {
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 93%;
+    background-color: black;
+}
+
+.Video2 {
+    position: absolute;
+    margin-left: 54.2%;
+    margin-top: 124.5%;
+    background-color: black;
+}
+
+.Whitetext1 {
+    font-size: 70px;
+    font-family: Segoe UI;
+    font-weight: 380;
+    position: absolute;
+    color: white;
+    margin-top: 100%;
+    margin-left: 55%;
+}
+
+.Whitetext2 {
+    font-size: 70px;
+    font-family: Segoe UI;
+    font-weight: 380;
+    position: absolute;
+    color: white;
+    margin-top: 100%;
+    margin-left: 55%;
 }
