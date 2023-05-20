@@ -180,10 +180,73 @@ p {
     margin-left: 2%;
 }
 
+.Shop {
+    position: absolute;
+    font-size: 42px;
+    font-family: Segoe Script;
+    color: #FFFCCB;
+    -webkit-text-stroke: 1px #D5FBFE;
+    margin-top: 32%;
+    margin-left: 20%;
+    font-weight: lighter;
+}
+
+.circle1 {
+    width: 13px;
+    height: 13px;
+    background-color: #B6B6B6;
+    border-radius: 50%;
+    margin-top: 40%;
+    position: absolute;
+    margin-left: 92%;
+}
+
+.circle2 {
+    width: 13px;
+    height: 13px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 40%;
+    position: absolute;
+    margin-left: 93.5%;
+}
+
+.circle3 {
+    width: 13px;
+    height: 13px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 40%;
+    position: absolute;
+    margin-left: 95.05%;
+}
+
 .breakImage {
     margin-top: 44%;
     position: absolute;
     margin-left: -22%;
+}
+
+.Pet {
+    position: absolute;
+    font-family: 'Sitka Text';
+    font-size: 178px;
+    color: #FF003B;
+    font-weight: lighter;
+    margin-top: 60%;
+    margin-left: 10%;
+}
+
+.arrow1 {
+    position: absolute;
+    margin-top: 63%;
+    margin-left: -20%;
+}
+
+.arrow2 {
+    position: absolute;
+    margin-top: 63%;
+    margin-left: 72.3%;
 }
 
 .Rectangle {
@@ -215,8 +278,8 @@ p {
     font-weight: 380;
     position: absolute;
     color: white;
-    margin-top: 100%;
-    margin-left: 55%;
+    margin-top: 102%;
+    margin-left: 54.5%;
 }
 
 .Whitetext2 {
@@ -225,6 +288,116 @@ p {
     font-weight: 380;
     position: absolute;
     color: white;
-    margin-top: 100%;
-    margin-left: 55%;
+    margin-top: 130%;
+    margin-left: 11%;
 }
+
+.Company {
+    font-size: 49px;
+    font-family: Bodoni Bd BT;
+    font-weight: bold;
+    color: #9B9B9B;
+    margin-top: 157%;
+    position: absolute;
+    margin-left: 13%;
+}
+
+.Column1 {
+    font-size: 31px;
+    font-family: Bodoni Bd BT;
+    font-weight: bold;
+    color: #B6B6B6;
+    margin-top: 160%;
+    position: absolute;
+    line-height: 2px;
+}
+
+.OurStory {
+    margin-left: 255%;
+}
+
+.Address {
+    margin-left: 265%;  
+}
+
+.Membership {
+    margin-left: 250%;
+}
+
+.QA {
+    margin-left: 278%;  
+}
+
+.Help {
+    font-size: 49px;
+    font-family: Bodoni Bd BT;
+    font-weight: bold;
+    color: #9B9B9B;
+    margin-top: 157%;
+    position: absolute;
+    margin-left: 46%;
+}
+
+.Column2 {
+    font-size: 31px;
+    font-family: Bodoni Bd BT;
+    font-weight: bold;
+    color: #B6B6B6;
+    margin-top: 160%;
+    position: absolute;
+    line-height: 2px;
+}
+
+.ContactUs {
+    margin-left: 348%;
+}
+
+.Agreement {
+    margin-left: 349%;  
+}
+
+.Guide {
+    margin-left: 358%;
+}
+
+.PrivacyPolicy {
+    margin-left: 342%;  
+}
+
+.ExchangeRefundGuide {
+    margin-left: 324%;  
+}
+
+.Footericon1 {
+    margin-left: 53%;
+    position: absolute;
+    margin-top: 161.52%;
+}
+
+.Footericon2 {
+    margin-left: 57.24%;
+    position: absolute;
+    margin-top: 161.5%;
+}
+
+.Footericon3 {
+    margin-left: 61.5%;
+    position: absolute;
+    margin-top: 160.9%;
+}
+
+.Copyright {
+    margin-left: 54.7%;
+    position: absolute;
+    margin-top: 167.55%;
+}
+
+.MM {
+    margin-left: 76.6%;
+    position: absolute;
+    margin-top: 167%;
+    font-size: 20px;
+    font-family: Segoe UI;
+    font-weight: 500;
+}
+
