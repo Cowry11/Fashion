@@ -14,7 +14,7 @@ h5 {
     font-family: 'SimSun-ExtB';
     margin-top: 18px;
     font-weight: lighter;
-    margin-left: 37.2%;
+    margin-left: 38.9%;
     position: relative;
 }
 
@@ -180,116 +180,13 @@ p {
     margin-left: 2%;
 }
 
-.Shop {
-    position: absolute;
-    font-size: 42px;
-    font-family: Segoe Script;
-    color: #FFFCCB;
-    -webkit-text-stroke: 1px #D5FBFE;
-    margin-top: 32%;
-    margin-left: 20%;
-    font-weight: lighter;
-}
-
-.circle1 {
-    width: 13px;
-    height: 13px;
-    background-color: #B6B6B6;
-    border-radius: 50%;
-    margin-top: 40%;
-    position: absolute;
-    margin-left: 92%;
-}
-
-.circle2 {
-    width: 13px;
-    height: 13px;
-    background-color: white;
-    border-radius: 50%;
-    margin-top: 40%;
-    position: absolute;
-    margin-left: 93.5%;
-}
-
-.circle3 {
-    width: 13px;
-    height: 13px;
-    background-color: white;
-    border-radius: 50%;
-    margin-top: 40%;
-    position: absolute;
-    margin-left: 95.05%;
-}
-
-.breakImage {
-    margin-top: 44%;
-    position: absolute;
-    margin-left: -22%;
-}
-
-.Pet {
-    position: absolute;
-    font-family: 'Sitka Text';
-    font-size: 178px;
-    color: #FF003B;
-    font-weight: lighter;
-    margin-top: 60%;
-    margin-left: 10%;
-}
-
-.arrow1 {
-    position: absolute;
-    margin-top: 63%;
-    margin-left: -20%;
-}
-
-.arrow2 {
-    position: absolute;
-    margin-top: 63%;
-    margin-left: 72.3%;
-}
-
 .Rectangle {
     position: absolute;
     margin-left: -1.31%;
     margin-top: 87.6%;
     width: 1804.5px;
     height: 1169px;
-    background-color: #FEA5E4;
-}
-
-.Video1 {
-    position: absolute;
-    margin-left: 5%;
-    margin-top: 93%;
-    background-color: black;
-}
-
-.Video2 {
-    position: absolute;
-    margin-left: 54.2%;
-    margin-top: 124.5%;
-    background-color: black;
-}
-
-.Whitetext1 {
-    font-size: 70px;
-    font-family: Segoe UI;
-    font-weight: 380;
-    position: absolute;
-    color: white;
-    margin-top: 102%;
-    margin-left: 54.5%;
-}
-
-.Whitetext2 {
-    font-size: 70px;
-    font-family: Segoe UI;
-    font-weight: 380;
-    position: absolute;
-    color: white;
-    margin-top: 130%;
-    margin-left: 11%;
+    background-color: #FEF887;
 }
 
 .Company {
