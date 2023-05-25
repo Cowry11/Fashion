@@ -303,6 +303,27 @@ p {
     z-index: 1;
 }
 
+.result {
+    position: absolute;
+    font-size: 35px;
+    font-family: Segoe UI;
+    font-weight: 450;
+    margin-left: 41%;
+    margin-top: 10.3%;
+    color: black;
+}
+
+#shirt {
+    font-weight: 600;
+}
+
+.filtermenu {
+    position: absolute;
+    margin-left: 4.19%;
+    margin-top: 13.8%;
+    z-index: 1;
+}
+
 .Rectangle {
     position: absolute;
     margin-left: -1.31%;

@@ -212,6 +212,10 @@ p {
     box-sizing: border-box;
 }
 
+.box2 {
+    cursor: pointer;
+}
+
 /* @media screen and (max-width:1200px) {
     .box {
         width: 40%;
@@ -301,6 +305,20 @@ p {
     margin-left: 46%;
     margin-top: 140%;
     z-index: 1;
+}
+
+.result {
+    position: absolute;
+    font-size: 35px;
+    font-family: Segoe UI;
+    font-weight: 450;
+    margin-left: 41%;
+    margin-top: 10.3%;
+    color: black;
+}
+
+#bag {
+    font-weight: 600;
 }
 
 .Rectangle {
