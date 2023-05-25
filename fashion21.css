@@ -228,6 +228,21 @@ p {
     margin-top: 43.7%;
 }
 
+.PI3 {
+    position: absolute;
+    margin-left: 84.95%;
+    margin-top: 43.7%;
+}
+
+.number {
+    position: absolute;
+    font-size: 25px;
+    font-family: Segoe UI;
+    font-weight: 450;
+    margin-top: 4.8%;
+    margin-left: 94.6%;
+}
+
 .Return {
     position: absolute;
     font-size: 25px;
