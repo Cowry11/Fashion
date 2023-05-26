@@ -1,0 +1,481 @@
+.bangs {
+    background-color: #ECC7FF;
+    height: 63px;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+h5 {
+    font-size: 25px;
+    font-family: 'SimSun-ExtB';
+    margin-top: 18px;
+    font-weight: lighter;
+    margin-left: 42.5%;
+    position: relative;
+}
+
+body {
+    height: 3249px;
+    width: 99%;
+    background-color: #FFF7F0;   
+}
+
+.loupe {
+    margin-top: 5.3%;
+    margin-left: 61%;
+    position: absolute;
+}
+
+.Search {
+    margin-top: 4.5%;
+    margin-left: 33.6%;
+    border: 0.5px solid #B6B6B6;
+    width: 531px;
+    height: 44px;
+    border-radius: 50px;
+    font-size: 23px;
+    font-family: 'Segoe UI';
+    color: #B6B6B6;
+    font-weight: regular;
+    position: absolute;
+    text-indent: 4.5%;
+}
+
+/* #suggestion {
+    margin-top: 4.96%;
+    margin-left: 34.9%;
+    font-size: 23px;
+    font-family: 'Segoe UI';
+    color: #B6B6B6;
+    font-weight: regular;
+    position: absolute;
+    text-indent: 4.5%;
+} */
+
+.Search {
+    outline: none;
+}
+
+ol li {
+    left: 67.2%;
+    position: relative;
+    margin-top: 5%;
+    float: left;
+    width: 110px;
+    list-style-type: none;
+    font-family: Segoe UI;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+ol li a {
+    text-decoration: none;
+    color: black;
+}
+
+.navicon {
+    float: left;
+}
+
+.wishlist {
+    left: 89.7%;
+    position: absolute;
+    margin-top: 4.7%;
+}
+
+.paperbag {
+    left: 93%;
+    position: absolute;
+    margin-top: 4.8%;
+}
+
+.account {
+    left: 96%;
+    position: absolute;
+    margin-top: 4.7%;
+}
+
+.logo {
+    left: 6%;
+    position: absolute;
+    margin-top: 4.7%;
+}
+
+p {
+    font-size: 55px;
+    font-family: 'Sofia';
+    margin-top: 58px;
+    font-weight: 'Regular';
+    margin-left: 1.4%;
+    position: absolute;
+    -webkit-text-stroke: 0.5px #FEA5E4;
+}
+
+#M-1 {
+    Color: #FEF887;
+}
+
+#a {
+    Color: #D5FBFE;
+}
+
+#r-1 {
+    Color: #FEA5E4;
+}
+
+#d-1 {
+    Color: #D7FFAA;
+}
+
+#i-1 {
+    Color: #ECC7FF;
+}
+
+#M-2 {
+    Color: #FFE2E2;
+}
+
+#e-1 {
+    Color: #FEF887;
+}
+
+#r-2 {
+    Color: #D5FBFE;
+}
+
+#c-1 {
+    Color: #FEA5E4;
+}
+
+#r-3 {
+    Color: #D7FFAA;
+}
+
+#e-2 {
+    Color: #ECC7FF;
+}
+
+#d-2 {
+    Color: #FFE2E2;
+}
+
+#i-2 {
+    Color: #FEF887;
+}
+
+.flogo {
+    left: 12.15%;
+    position: absolute;
+    margin-top: 4.75%;
+}
+
+/* .Container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    width: 100%;
+} */
+
+/* @media screen and (max-width:1200px) {
+    .box {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .box {
+        width: 90%;
+    }
+} */
+
+.cart {
+    position: absolute;
+    margin-top: 11.5%;
+    margin-left: 7.7%;
+    z-index: 1;
+}
+
+.checkoutinfo {
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 9.7%;
+    z-index: 1;
+}
+
+.checkout {
+    position: absolute;
+    margin-top: 29%;
+    margin-left: 72%;
+    z-index: 1;
+}
+
+.Pay {
+    position: absolute;
+    width: 314px;
+    height: 66px;
+    font-size: 33px;
+    font-family: Segoe UI;
+    background-color: #2599F6;
+    color: white;
+    z-index: 1;
+    cursor: pointer;
+    text-align: center;
+    font-weight: 450;
+    margin-top: 28.8%;
+    margin-left: 51.2%;
+    border: none;
+}
+
+.number {
+    position: absolute;
+    font-size: 25px;
+    font-family: Segoe UI;
+    font-weight: 450;
+    margin-top: 4.8%;
+    margin-left: 94.6%;
+}
+
+.country select{
+    position: absolute;
+    width: 380px;
+    height: 46px;
+    border: 1px solid #B6B6B6;
+    font-family: Segoe UI;
+    font-size: 33px;
+    margin-top: 24%;
+    margin-left: -10.8%;
+    z-index: 1;
+}
+
+.name input{
+    position: absolute;
+    width: 380px;
+    height: 46px;
+    border: none;
+    border-bottom: 0.5px solid black;
+    font-size: 33px;
+    font-family: Segoe UI;
+    margin-top: 27.7%;
+    margin-left: -10.8%;
+    outline: none;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.name1 input{
+    position: absolute;
+    width: 380px;
+    height: 46px;
+    border: none;
+    border-bottom: 0.5px solid black;
+    font-size: 33px;
+    font-family: Segoe UI;
+    margin-top: 27.7%;
+    margin-left: 17.77%;
+    outline: none;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.address input{
+    position: absolute;
+    width: 891px;
+    height: 46px;
+    border: none;
+    border-bottom: 0.5px solid black;
+    font-size: 33px;
+    font-family: Segoe UI;
+    margin-top: 31.7%;
+    margin-left: -10.8%;
+    outline: none;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.state select{
+    position: absolute;
+    width: 380px;
+    height: 46px;
+    border: 1px solid #B6B6B6;
+    font-family: Segoe UI;
+    font-size: 33px;
+    margin-top: 39%;
+    margin-left: -10.8%;
+    z-index: 1;
+}
+
+.city input{
+    position: absolute;
+    width: 380px;
+    height: 46px;
+    border: 1px solid #B6B6B6;
+    font-size: 33px;
+    font-family: Segoe UI;
+    margin-top: 46.1%;
+    margin-left: -10.8%;
+    z-index: 1;
+}
+
+.pc input{
+    position: absolute;
+    width: 380px;
+    height: 46px;
+    border: 1px solid #B6B6B6;
+    font-size: 33px;
+    font-family: Segoe UI;
+    margin-top: 46.1%;
+    margin-left: 17.77%;
+    z-index: 1;
+}
+
+.number select {
+    position: absolute;
+    margin-top: 46.1%;
+    margin-left: 17.77%;
+}
+
+
+
+.Return {
+    position: absolute;
+    font-size: 25px;
+    font-family: Segoe UI;
+    font-weight: 450;
+    margin-left: 4.5%;
+    margin-top: 8.2%;
+    color: black;
+}
+
+.Return1 {
+    position: absolute;
+    font-size: 25px;
+    font-family: Segoe UI;
+    font-weight: 450;
+    margin-left: 11.7%;
+    margin-top: 8.2%;
+    color: black;
+}
+
+.Rectangle {
+    position: absolute;
+    margin-left: -1.31%;
+    margin-top: 87.6%;
+    width: 1804.5px;
+    height: 1169px;
+    background-color: #D5FBFE;
+}
+
+.Company {
+    font-size: 49px;
+    font-family: Bodoni Bd BT;
+    font-weight: bold;
+    color: #9B9B9B;
+    margin-top: 157%;
+    position: absolute;
+    margin-left: 13%;
+}
+
+.Column1 {
+    font-size: 31px;
+    font-family: Bodoni Bd BT;
+    font-weight: bold;
+    color: #B6B6B6;
+    margin-top: 160%;
+    position: absolute;
+    line-height: 2px;
+}
+
+.OurStory {
+    margin-left: 255%;
+}
+
+.Address {
+    margin-left: 265%;  
+}
+
+.Membership {
+    margin-left: 250%;
+}
+
+.QA {
+    margin-left: 278%;  
+}
+
+.Help {
+    font-size: 49px;
+    font-family: Bodoni Bd BT;
+    font-weight: bold;
+    color: #9B9B9B;
+    margin-top: 157%;
+    position: absolute;
+    margin-left: 46%;
+}
+
+.Column2 {
+    font-size: 31px;
+    font-family: Bodoni Bd BT;
+    font-weight: bold;
+    color: #B6B6B6;
+    margin-top: 160%;
+    position: absolute;
+    line-height: 2px;
+}
+
+.ContactUs {
+    margin-left: 348%;
+}
+
+.Agreement {
+    margin-left: 349%;  
+}
+
+.Guide {
+    margin-left: 358%;
+}
+
+.PrivacyPolicy {
+    margin-left: 342%;  
+}
+
+.ExchangeRefundGuide {
+    margin-left: 324%;  
+}
+
+.Footericon1 {
+    margin-left: 53%;
+    position: absolute;
+    margin-top: 161.52%;
+}
+
+.Footericon2 {
+    margin-left: 57.24%;
+    position: absolute;
+    margin-top: 161.5%;
+}
+
+.Footericon3 {
+    margin-left: 61.5%;
+    position: absolute;
+    margin-top: 160.9%;
+}
+
+.Copyright {
+    margin-left: 54.7%;
+    position: absolute;
+    margin-top: 167.55%;
+}
+
+.MM {
+    margin-left: 76.6%;
+    position: absolute;
+    margin-top: 167%;
+    font-size: 20px;
+    font-family: Segoe UI;
+    font-weight: 500;
+}
+
