@@ -1,5 +1,5 @@
 .bangs {
-    background-color: #ECC7FF;
+    background-color: #FEA5E4;
     height: 63px;
     display: flex;
     flex-wrap: wrap;
@@ -14,7 +14,7 @@ h5 {
     font-family: 'SimSun-ExtB';
     margin-top: 18px;
     font-weight: lighter;
-    margin-left: 42.5%;
+    margin-left: 39%;
     position: relative;
 }
 
@@ -193,216 +193,23 @@ p {
     }
 } */
 
-.cart {
-    position: absolute;
-    margin-top: 11.5%;
-    margin-left: 7.7%;
-    z-index: 1;
-}
 
-.checkoutinfo {
+.confirm {
     position: absolute;
     margin-top: 13%;
-    margin-left: 9.7%;
-    z-index: 1;
-}
-
-.checkout {
-    position: absolute;
-    margin-top: 29%;
-    margin-left: 72%;
-    z-index: 1;
-}
-
-.Pay {
-    position: absolute;
-    width: 314px;
-    height: 66px;
-    font-size: 33px;
-    font-family: Segoe UI;
-    background-color: #2599F6;
-    color: white;
-    z-index: 1;
-    cursor: pointer;
-    text-align: center;
-    font-weight: 450;
-    margin-top: 28.8%;
-    margin-left: 51.2%;
-    border: none;
-}
-
-.number {
-    position: absolute;
-    font-size: 25px;
-    font-family: Segoe UI;
-    font-weight: 450;
-    margin-top: 4.8%;
-    margin-left: 94.6%;
-}
-
-.country select{
-    position: absolute;
-    width: 380px;
-    height: 46px;
-    border: 1px solid #B6B6B6;
-    font-family: Segoe UI;
-    font-size: 33px;
-    margin-top: 24%;
-    margin-left: -10.8%;
-    z-index: 1;
-}
-
-.name input{
-    position: absolute;
-    width: 380px;
-    height: 46px;
-    border: none;
-    border-bottom: 0.5px solid black;
-    font-size: 33px;
-    font-family: Segoe UI;
-    margin-top: 27.7%;
-    margin-left: -10.8%;
-    outline: none;
-    background-color: transparent;
-    z-index: 1;
-}
-
-.name1 input{
-    position: absolute;
-    width: 380px;
-    height: 46px;
-    border: none;
-    border-bottom: 0.5px solid black;
-    font-size: 33px;
-    font-family: Segoe UI;
-    margin-top: 27.7%;
-    margin-left: 17.77%;
-    outline: none;
-    background-color: transparent;
-    z-index: 1;
-}
-
-.address input{
-    position: absolute;
-    width: 891px;
-    height: 46px;
-    border: none;
-    border-bottom: 0.5px solid black;
-    font-size: 33px;
-    font-family: Segoe UI;
-    margin-top: 31.7%;
-    margin-left: -10.8%;
-    outline: none;
-    background-color: transparent;
-    z-index: 1;
-}
-
-.state select{
-    position: absolute;
-    width: 380px;
-    height: 46px;
-    border: 1px solid #B6B6B6;
-    font-family: Segoe UI;
-    font-size: 33px;
-    margin-top: 39%;
-    margin-left: -10.8%;
-    z-index: 1;
-}
-
-.city input{
-    position: absolute;
-    width: 380px;
-    height: 46px;
-    border: 1px solid #B6B6B6;
-    font-size: 33px;
-    font-family: Segoe UI;
-    margin-top: 46.1%;
-    margin-left: -10.8%;
-    z-index: 1;
-}
-
-.pc input{
-    position: absolute;
-    width: 380px;
-    height: 46px;
-    border: 1px solid #B6B6B6;
-    font-size: 33px;
-    font-family: Segoe UI;
-    margin-top: 46.1%;
-    margin-left: 17.77%;
-    z-index: 1;
-}
-
-.form input{
-    width: 894px;
-    height: 46px;
-    font-size: 33px;
-    font-family: Segoe UI;
-    border: 1px solid #B6B6B6;
-    position: absolute;
-    z-index: 1;
-}
-
-.card{
-    position: absolute;
-    margin-top: 87%;
-    margin-left: 9.5%;
-}
-
-
-.name2{
-    position: absolute;
-    margin-top: 91.5%;
-    margin-left: 9.5%;
-}
-
-.valid{
-    position: absolute;
-    margin-top: 96%;
-    margin-left: 9.5%;
-}
-
-.cvc{
-    position: absolute;
-    margin-top: 100.5%;
-    margin-left: 9.5%;
+    margin-left: 29.9%;
 }
 
 
 
-
-
-
-
-
-
-.Return {
-    position: absolute;
-    font-size: 25px;
-    font-family: Segoe UI;
-    font-weight: 450;
-    margin-left: 4.5%;
-    margin-top: 8.2%;
-    color: black;
-}
-
-.Return1 {
-    position: absolute;
-    font-size: 25px;
-    font-family: Segoe UI;
-    font-weight: 450;
-    margin-left: 11.7%;
-    margin-top: 8.2%;
-    color: black;
-}
-
+  
 .Rectangle {
     position: absolute;
     margin-left: -1.31%;
     margin-top: 87.6%;
     width: 1804.5px;
     height: 1169px;
-    background-color: #D5FBFE;
+    background-color: #FFE2E2;
 }
 
 .Company {

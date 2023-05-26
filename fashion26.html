@@ -37,7 +37,7 @@
     <section>
     <div class="cart"><img src="image/组 24.png"></div>
     <div class="checkoutinfo"><img src="image/组 25.png"></div>
-    <a href=""><button class="Pay">Pay</button></a>
+    <a href="fashion28.html"><button class="Pay">Pay</button></a>
     <h6 class="number">2</h6>
 
     <div class="country">
@@ -69,13 +69,19 @@
     <div class="pc">
         <input type="pc" placeholder="" name="pc" id="pc" maxlength="12"/> 
     </div> 
-
-    <div class="number">
-        <select name="number" id="number">
-            <option value="+61">+61</option>
-            <option value="+86">+86</option>
-            <option value="+44">+44</option>
-        </select>
+    <div class="form">
+        <div class="card">
+                <input type="text" placeholder="Card number" name="cardno" id="cardno" maxlength="16" onkeypress="cardspace()"/>
+        </div>
+        <div class="name2">
+                    <input type="text" placeholder="Name on card" name="name" id="name2" maxlength="12"/> 
+        </div>
+        <div class="valid">
+                    <input type="text" placeholder="Expiration date (MM / YY)" name="valid" id="valid" maxlength="12" onkeypress="addSlashes()"/>
+        </div>
+        <div class="cvc">
+                    <input type="text" placeholder="CVC" name="cvc" id="cvc" maxlength="3"/>
+        </div>
     </div>
 
 
