@@ -94,9 +94,6 @@ ol li {
 ol li a {
     text-decoration: none;
     color: black;
-    @media screen and (max-width: 376px) {
-        display: none;
-    }
 }
 
 .navicon {
@@ -135,6 +132,9 @@ p {
     margin-left: 1.4%;
     position: absolute;
     -webkit-text-stroke: 0.5px #FEA5E4;
+    @media screen and (max-width: 376px) {
+        display: none;
+    }
 }
 
 #M-1 {
@@ -200,6 +200,17 @@ p {
     margin-top: 9.1%;
     position: absolute;
     margin-left: 2%;
+    @media screen and (max-width: 376px) {
+        display: none;
+    }
+}
+
+.MGroup-1 {
+    display: none;
+    @media screen and (max-width: 376px) {
+        display: contents;
+        display: flex;
+    }
 }
 
 .Shop {
@@ -293,6 +304,9 @@ p {
     margin-left: 5%;
     margin-top: 93%;
     background-color: black;
+    @media screen and (max-width: 376px) {
+        display: none;
+    }
 }
 
 .Video2 {
@@ -300,7 +314,30 @@ p {
     margin-left: 54.2%;
     margin-top: 124.5%;
     background-color: black;
+    @media screen and (max-width: 376px) {
+        display: none;
+    }
 }
+
+.MVideo1 {
+    display: none;
+    @media screen and (max-width: 376px) {
+        display: contents;
+        position: absolute;
+        background-color: black;
+    }
+}
+
+.MVideo2 {
+    display: none;
+    @media screen and (max-width: 376px) {
+        display: contents;
+        position: absolute;
+        background-color: black;
+    }
+}
+    
+
 
 .Whitetext1 {
     font-size: 70px;
