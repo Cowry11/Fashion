@@ -7,6 +7,9 @@
     top: 0;
     left: 0;
     width: 100%;
+    @media screen and (max-width: 376px) {
+        width: 375px;
+    }
 }
 
 h5 {
@@ -16,18 +19,28 @@ h5 {
     font-weight: lighter;
     margin-left: 37.2%;
     position: relative;
+    @media screen and (max-width: 376px) {
+        font-size: 13px;
+    }
 }
 
 body {
     height: 3249px;
     width: 99%;
     background-color: #FFF7F0; 
+    @media screen and (max-width: 376px) {
+        width: 375px;
+        height: 1175px;
+    }
 }
 
 .loupe {
     margin-top: 5.3%;
     margin-left: 61%;
     position: absolute;
+    @media screen and (max-width: 376px) {
+        display: none;
+    }
 }
 
 .Search {
@@ -43,6 +56,9 @@ body {
     font-weight: regular;
     position: absolute;
     text-indent: 4.5%;
+    @media screen and (max-width: 376px) {
+        display: none;
+    }
 }
 
 /* #suggestion {
@@ -70,11 +86,17 @@ ol li {
     font-family: Segoe UI;
     font-size: 25px;
     font-weight: 500;
+    @media screen and (max-width: 376px) {
+        display: none;
+    }
 }
 
 ol li a {
     text-decoration: none;
     color: black;
+    @media screen and (max-width: 376px) {
+        display: none;
+    }
 }
 
 .navicon {
@@ -225,6 +247,10 @@ p {
     margin-top: 44%;
     position: absolute;
     margin-left: -22%;
+    @media screen and (max-width: 376px) {
+        width: 375px;
+        height: 157px;
+    }
 }
 
 .Pet {
@@ -256,6 +282,10 @@ p {
     width: 1804.5px;
     height: 1169px;
     background-color: #FEA5E4;
+    @media screen and (max-width: 376px) {
+        width: 375px;
+        height: 282px;
+    }
 }
 
 .Video1 {
