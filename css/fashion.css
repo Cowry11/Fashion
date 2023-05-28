@@ -7,6 +7,10 @@
     top: 0;
     left: 0;
     width: 100%;
+    @media screen and (max-width: 376px){
+        width: 375px;
+        height: 63px;
+    }
 }
 
 h5 {
