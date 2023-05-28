@@ -7,10 +7,6 @@
     top: 0;
     left: 0;
     width: 100%;
-    @media screen and (max-width: 376px){
-        width: 375px;
-        height: 63px;
-    }
 }
 
 h5 {
@@ -110,7 +106,7 @@ ol li a {
 }
 
 p {
-    font-size: 55px;
+    font-size: 15px;
     font-family: 'Sofia';
     margin-top: 58px;
     font-weight: 'Regular';
@@ -186,7 +182,7 @@ p {
 
 .Shop {
     position: absolute;
-    font-size: 42px;
+    font-size: 22px;
     font-family: Segoe Script;
     color: #FFFCCB;
     -webkit-text-stroke: 1px #D5FBFE;
