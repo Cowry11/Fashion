@@ -21,6 +21,9 @@ h5 {
     position: relative;
     @media screen and (max-width: 376px) {
         font-size: 13px;
+        position: relative;
+        margin-top: 25px;
+        margin-left: 21%;
     }
 }
 
@@ -195,6 +198,13 @@ p {
     margin-top: 4.75%;
 }
 
+.Mflogo {
+    display: none;
+    @media screen and (max-width: 376px) {
+        display: none;
+    }
+}
+
 .Group-1 {
     display: flex;
     margin-top: 9.1%;
@@ -210,6 +220,8 @@ p {
     @media screen and (max-width: 376px) {
         display: contents;
         display: flex;
+        margin-top: 30%;
+        position: absolute;
     }
 }
 
@@ -261,6 +273,8 @@ p {
     @media screen and (max-width: 376px) {
         width: 375px;
         height: 157px;
+        position: absolute;
+        margin-top: 144%;
     }
 }
 
@@ -296,6 +310,7 @@ p {
     @media screen and (max-width: 376px) {
         width: 375px;
         height: 282px;
+        position: absolute;
     }
 }
 
@@ -325,6 +340,8 @@ p {
         display: contents;
         position: absolute;
         background-color: black;
+        margin-left: 5%;
+        margin-top: 193%;
     }
 }
 
@@ -334,6 +351,8 @@ p {
         display: contents;
         position: absolute;
         background-color: black;
+        margin-left: 5%;
+        margin-top: 93%;
     }
 }
     
@@ -417,22 +436,37 @@ p {
 
 .ContactUs {
     margin-left: 348%;
+    @media screen and (max-width: 376px) {
+        margin-left: 48%;
+    }
 }
 
 .Agreement {
-    margin-left: 349%;  
+    margin-left: 349%;
+    @media screen and (max-width: 376px) {
+        margin-left: 48%;
+    }  
 }
 
 .Guide {
     margin-left: 358%;
+    @media screen and (max-width: 376px) {
+        margin-left: 48%;
+    }
 }
 
 .PrivacyPolicy {
     margin-left: 342%;  
+    @media screen and (max-width: 376px) {
+        margin-left: 48%;
+    }
 }
 
 .ExchangeRefundGuide {
     margin-left: 324%;  
+    @media screen and (max-width: 376px) {
+        margin-left: 48%;
+    }
 }
 
 .Footericon1 {
