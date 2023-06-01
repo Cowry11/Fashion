@@ -308,6 +308,7 @@ p {
         display: flex;
         margin-top: 29%;
         position: absolute;
+        margin-left: 1.5%;
     }
 }
 
@@ -333,8 +334,8 @@ p {
         font-family: Segoe Script;
         color: #FFFCCB;
         -webkit-text-stroke: 1px #D5FBFE;
-        margin-top: 32%;
-        margin-left: 20%;
+        margin-top: 74%;
+        margin-left: 13%;
         font-weight: lighter;
         display: flex;
     }
@@ -362,9 +363,9 @@ p {
         height: 3px;
         background-color: #B6B6B6;
         border-radius: 50%;
-        margin-top: 45%;
+        margin-top: 90%;
         position: absolute;
-        margin-left: 82%;
+        margin-left: 89.2%;
     }
 }
 
@@ -390,9 +391,9 @@ p {
         height: 3px;
         background-color: white;
         border-radius: 50%;
-        margin-top: 45%;
+        margin-top: 90%;
         position: absolute;
-        margin-left: 85%;
+        margin-left: 91%;
     }
 }
 
@@ -418,9 +419,9 @@ p {
         height: 3px;
         background-color: white;
         border-radius: 50%;
-        margin-top: 45%;
+        margin-top: 90%;
         position: absolute;
-        margin-left: 88%;
+        margin-left: 93%;
     }
 }
 
