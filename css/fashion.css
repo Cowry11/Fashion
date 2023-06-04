@@ -663,20 +663,6 @@ p {
     }
 }
 
-.MCompany {
-    display: none;
-    @media screen and (max-width: 376px) {
-        font-size: 15px;
-        font-family: Bodoni Bd BT;
-        font-weight: bold;
-        color: #9B9B9B;
-        margin-top: 238.5%;
-        position: absolute;
-        margin-left: 42.3%;
-        display: flex;
-    }
-}
-
 .Column1 {
     font-size: 31px;
     font-family: Bodoni Bd BT;
@@ -690,36 +676,10 @@ p {
     }
 }
 
-.MColumn1 {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        font-size: 10px;
-        font-family: Bodoni Bd BT;
-        font-weight: bold;
-        color: #B6B6B6;
-        margin-top: 270%;
-        position: absolute;
-        line-height: 2px;
-        display: flex;
-    }
-}
-
 .OurStory {
     margin-left: 255%;
     @media screen and (max-width: 376px) {
         display: none;
-    }
-}
-
-.MOurStory {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        display: flex;
-        position: absolute;
-        margin-top: 74%;
-        margin-left: 15%;
     }
 }
 
@@ -730,17 +690,6 @@ p {
     } 
 }
 
-.MAddress {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        display: flex;
-        position: absolute;
-        margin-top: -64%;
-        margin-left: 115%;
-    }
-}
-
 .Membership {
     margin-left: 250%;
     @media screen and (max-width: 376px) {
@@ -748,32 +697,10 @@ p {
     }
 }
 
-.MMembership {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        display: flex;
-        position: absolute;
-        margin-top: -64%;
-        margin-left: 115%;
-    }
-}
-
 .QA {
     margin-left: 278%;  
     @media screen and (max-width: 376px) {
         display: none;
-    }
-}
-
-.MQA {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        display: flex;
-        position: absolute;
-        margin-top: -64%;
-        margin-left: 115%;
     }
 }
 
@@ -790,21 +717,6 @@ p {
     }
 }
 
-.MHelp {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        font-size: 15px;
-        font-family: Bodoni Bd BT;
-        font-weight: bold;
-        color: #9B9B9B;
-        margin-top: 157%;
-        position: absolute;
-        margin-left: 46%;
-        display: flex;
-    }
-}
-
 .Column2 {
     font-size: 31px;
     font-family: Bodoni Bd BT;
@@ -818,36 +730,10 @@ p {
     }
 }
 
-.MColumn2 {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        font-size: 10px;
-        font-family: Bodoni Bd BT;
-        font-weight: bold;
-        color: #B6B6B6;
-        margin-top: 160%;
-        position: absolute;
-        line-height: 2px;
-        display: flex;
-    }
-}
-
 .ContactUs {
     margin-left: 348%;
     @media screen and (max-width: 376px) {
         display: none;
-    }
-}
-
-.MContactUs {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        display: flex;
-        position: absolute;
-        margin-top: -64%;
-        margin-left: 115%;
     }
 }
 
@@ -858,32 +744,10 @@ p {
     }
 }
 
-.MAgreement {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        display: flex;
-        position: absolute;
-        margin-top: -64%;
-        margin-left: 115%;
-    }
-}
-
 .Guide {
     margin-left: 358%;
     @media screen and (max-width: 376px) {
         display: none;
-    }
-}
-
-.MGuide {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        display: flex;
-        position: absolute;
-        margin-top: -64%;
-        margin-left: 115%;
     }
 }
 
@@ -894,32 +758,10 @@ p {
     }
 }
 
-.MPrivacyPolicy {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        display: flex;
-        position: absolute;
-        margin-top: -64%;
-        margin-left: 115%;
-    }
-}
-
 .ExchangeRefundGuide {
     margin-left: 324%;  
     @media screen and (max-width: 376px) {
         display: none;
-    }
-}
-
-.MExchangeRefundGuide {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        display: flex;
-        position: absolute;
-        margin-top: -64%;
-        margin-left: 115%;
     }
 }
 
@@ -932,34 +774,12 @@ p {
     }
 }
 
-.MFootericon1 {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        margin-left: 33%;
-        position: absolute;
-        margin-top: 222%;
-        display: flex;
-    }
-}
-
 .Footericon2 {
     margin-left: 57.24%;
     position: absolute;
     margin-top: 161.5%;
     @media screen and (max-width: 376px) {
         display: none;
-    }
-}
-
-.MFootericon2 {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        margin-left: 41%;
-        position: absolute;
-        margin-top: 222%;
-        display: flex;
     }
 }
 
@@ -972,34 +792,12 @@ p {
     }
 }
 
-.MFootericon3 {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        margin-left: 36%;
-        position: absolute;
-        margin-top: 228.5%;
-        display: flex;
-    }
-}
-
 .Copyright {
     margin-left: 54.7%;
     position: absolute;
     margin-top: 167.55%;
     @media screen and (max-width: 376px) {
         display: none;
-    }
-}
-
-.MCopyright {
-    display: none;
-    @media screen and (max-width: 376px) {
-        display: contents;
-        display: flex;
-        position: absolute;
-        z-index: 1;
-        margin-top: 90%;
     }
 }
 
@@ -1015,14 +813,14 @@ p {
     }
 }
 
-.MMM {
+.MUnder {
     display: none;
     @media screen and (max-width: 376px) {
         display: contents;
+        z-index: 1;
         display: flex;
-        margin-top: 90%;
         position: absolute;
-        font-size: 7px;
-        font-family: Segoe UI;
+        margin-left: 36%;
+        margin-top: 225%;
     }
 }
