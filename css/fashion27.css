@@ -106,6 +106,9 @@ body {
 
 .Search {
     outline: none;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 ol li {
