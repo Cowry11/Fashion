@@ -151,6 +151,9 @@ ol li a {
     left: 89.7%;
     position: absolute;
     margin-top: 4.7%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Mwishlist {
@@ -168,6 +171,9 @@ ol li a {
     left: 93%;
     position: absolute;
     margin-top: 4.8%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Mpaperbag {
@@ -185,6 +191,9 @@ ol li a {
     left: 96%;
     position: absolute;
     margin-top: 4.7%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Maccount {
