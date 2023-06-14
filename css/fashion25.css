@@ -7,6 +7,20 @@
     top: 0;
     left: 0;
     width: 100%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
+}
+
+.Mbangs {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        background-color: #ECC7FF;
+        height: 63px;
+        display: flex;
+        position: absolute;
+    }
 }
 
 h5 {
@@ -16,18 +30,49 @@ h5 {
     font-weight: lighter;
     margin-left: 41.5%;
     position: relative;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
+}
+
+.Mbanner {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        font-size: 13px;
+        height: 63px;
+        width: 376px;
+        position: relative;
+        margin-left: 34%;
+        margin-top: 6%;
+        display: flex;
+        font-weight: lighter;
+        font-family: 'SimSun-ExtB';
+        z-index: 1;
+    }
 }
 
 body {
     height: 3249px;
     width: 99%;
     background-color: #FFF7F0;   
+    @media screen and (max-width: 821px) {
+        display: contents;
+        background-color: #FFF7F0; 
+        height: 1175px;
+        width: 375px;
+        display: flex;
+        position: absolute;
+    }   
 }
 
 .loupe {
     margin-top: 5.3%;
     margin-left: 61%;
     position: absolute;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Search {
@@ -43,6 +88,9 @@ body {
     font-weight: regular;
     position: absolute;
     text-indent: 4.5%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 /* #suggestion {
@@ -70,6 +118,9 @@ ol li {
     font-family: Segoe UI;
     font-size: 25px;
     font-weight: 500;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 ol li a {
@@ -79,6 +130,18 @@ ol li a {
 
 .navicon {
     float: left;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
+}
+
+.Mnavicon {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        float: left;
+        display: flex;
+    }
 }
 
 .wishlist {
@@ -87,10 +150,32 @@ ol li a {
     margin-top: 4.7%;
 }
 
+.Mwishlist {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        left: 75%;
+        position: absolute;
+        margin-top: 21.5%;
+        display: flex;
+    }
+}
+
 .paperbag {
     left: 93%;
     position: absolute;
     margin-top: 4.8%;
+}
+
+.Mpaperbag {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        left: 83.79%;
+        position: absolute;
+        margin-top: 21.5%;
+        display: flex;
+    }
 }
 
 .account {
@@ -99,10 +184,24 @@ ol li a {
     margin-top: 4.7%;
 }
 
+.Maccount {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        left: 92%;
+        position: absolute;
+        margin-top: 21.5%;
+        display: flex;
+    }
+}
+
 .logo {
     left: 6%;
     position: absolute;
     margin-top: 4.7%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 p {
@@ -113,6 +212,31 @@ p {
     margin-left: 1.4%;
     position: absolute;
     -webkit-text-stroke: 0.5px #FEA5E4;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
+}
+
+.Mflogo {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        left: 15%;
+        position: absolute;
+        margin-top: 20.6%;
+        display: flex;
+    }
+}
+
+.Mhamb {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        margin-left: -8%;
+        position: absolute;
+        display: flex;
+        margin-top: 20.5%;
+    }
 }
 
 #M-1 {
@@ -171,6 +295,9 @@ p {
     left: 12.15%;
     position: absolute;
     margin-top: 4.75%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 /* .Container {
@@ -197,12 +324,18 @@ p {
     position: absolute;
     margin-top: 11.5%;
     margin-left: 7.7%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .checkout {
     position: absolute;
     margin-top: 29%;
     margin-left: 71.5%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .number {
@@ -212,6 +345,9 @@ p {
     font-weight: 450;
     margin-top: 4.8%;
     margin-left: 94.6%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Return {
@@ -222,6 +358,9 @@ p {
     margin-left: 4.5%;
     margin-top: 8.2%;
     color: black;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Return1 {
@@ -232,6 +371,33 @@ p {
     margin-left: 14%;
     margin-top: 8.2%;
     color: black;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
+}
+
+.MContainer {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        display: flex;
+        position: absolute;
+        margin-top: 32.5%;
+        margin-left: 9%;
+        z-index: 111;
+    }
+}
+
+.MContainer1 {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        display: flex;
+        position: absolute;
+        margin-top: 146.4%;
+        margin-left: -1.5%;
+        z-index: 111;
+    }
 }
 
 .Rectangle {
@@ -241,6 +407,38 @@ p {
     width: 1804.5px;
     height: 1169px;
     background-color: #ECC7FF;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
+}
+
+.MRectangle {
+    display: none;
+     @media screen and (max-width: 821px) {
+         display: contents;
+         position: absolute;
+         display: flex;
+         margin-left: -2.2%;
+         margin-top: 140.5%;
+         width: 392px;
+         height: 282px;
+         background-color: #D5FBFE;
+     }
+ }
+
+.Mnumber {
+    display: nones;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        display: flex;
+        position: absolute;
+        font-size: 15px;
+        font-family: Segoe UI;
+        font-weight: 450;
+        margin-top: 22%;
+        margin-left: 89.8%;
+        z-index: 1;
+    }
 }
 
 .Company {
@@ -251,6 +449,9 @@ p {
     margin-top: 157%;
     position: absolute;
     margin-left: 13%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Column1 {
@@ -261,22 +462,37 @@ p {
     margin-top: 160%;
     position: absolute;
     line-height: 2px;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .OurStory {
     margin-left: 255%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Address {
     margin-left: 265%;  
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Membership {
     margin-left: 250%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .QA {
     margin-left: 278%;  
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Help {
@@ -287,6 +503,9 @@ p {
     margin-top: 157%;
     position: absolute;
     margin-left: 46%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Column2 {
@@ -297,50 +516,80 @@ p {
     margin-top: 160%;
     position: absolute;
     line-height: 2px;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .ContactUs {
     margin-left: 348%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Agreement {
     margin-left: 349%;  
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Guide {
     margin-left: 358%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .PrivacyPolicy {
     margin-left: 342%;  
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .ExchangeRefundGuide {
-    margin-left: 324%;  
+    margin-left: 324%; 
+    @media screen and (max-width: 821px) {
+        display: none;
+    } 
 }
 
 .Footericon1 {
     margin-left: 53%;
     position: absolute;
     margin-top: 161.52%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Footericon2 {
     margin-left: 57.24%;
     position: absolute;
     margin-top: 161.5%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Footericon3 {
     margin-left: 61.5%;
     position: absolute;
     margin-top: 160.9%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .Copyright {
     margin-left: 54.7%;
     position: absolute;
     margin-top: 167.55%;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
 .MM {
@@ -350,5 +599,19 @@ p {
     font-size: 20px;
     font-family: Segoe UI;
     font-weight: 500;
+    @media screen and (max-width: 821px) {
+        display: none;
+    }
 }
 
+.MUnder {
+    display: none;
+    @media screen and (max-width: 821px) {
+        display: contents;
+        z-index: 1;
+        display: flex;
+        position: absolute;
+        margin-left: 36%;
+        margin-top: 225%;
+    }
+}
